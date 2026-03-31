@@ -10,3 +10,5 @@ Curated algorithmic problem solutions in modern C++ with in-depth time and space
 - **Linked Lists**: Reverse Linked List, Detect Cycle, Merge Sorted Lists
 
 <!-- update 2026-03-27T20:15:42+05:30: docs: add time and space complexity notes for palindrome number -->
+
+<!-- update 2026-03-31T10:33:55+05:30: perf: reduce space complexity to O(1) in Fibonacci transition -->
