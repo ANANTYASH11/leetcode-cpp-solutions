@@ -9,3 +9,5 @@
 - Problem 136: Single Number [Easy]
 - Problem 206: Reverse Linked List [Easy]
 - Problem 226: Invert Binary Tree [Easy]
+
+<!-- update 2026-03-31T23:52:38+05:30: refactor: clean up variable names and helper functions -->
