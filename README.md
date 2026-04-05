@@ -12,3 +12,5 @@ Curated algorithmic problem solutions in modern C++ with in-depth time and space
 <!-- update 2026-03-27T20:15:42+05:30: docs: add time and space complexity notes for palindrome number -->
 
 <!-- update 2026-03-31T10:33:55+05:30: perf: reduce space complexity to O(1) in Fibonacci transition -->
+
+<!-- update 2026-04-05T15:06:56+05:30: feat: implement binary search with lower bound predicate -->
