@@ -7,3 +7,5 @@ Reference patterns for DFS, BFS, Sliding Window, and Dynamic Programming.
 <!-- update 2026-04-03T12:06:00+05:30: feat: solve climbing stairs using bottom-up dynamic programming -->
 
 <!-- update 2026-04-03T15:29:28+05:30: feat: solve single number using bitwise XOR cancellation -->
+
+<!-- update 2026-04-07T10:55:56+05:30: feat: solve climbing stairs using bottom-up dynamic programming -->
