@@ -15,3 +15,5 @@
 <!-- update 2026-04-06T10:04:42+05:30: feat: implement in-place duplicate removal with two pointers -->
 
 <!-- update 2026-04-06T23:40:20+05:30: feat: implement recursive symmetric tree check -->
+
+<!-- update 2026-04-07T11:07:48+05:30: feat: implement recursive symmetric tree check -->
