@@ -16,3 +16,5 @@ Curated algorithmic problem solutions in modern C++ with in-depth time and space
 <!-- update 2026-04-05T15:06:56+05:30: feat: implement binary search with lower bound predicate -->
 
 <!-- update 2026-04-06T15:44:31+05:30: feat: solve binary tree inorder traversal using Morris Traversal -->
+
+<!-- update 2026-04-07T11:13:50+05:30: feat: solve single number using bitwise XOR cancellation -->
