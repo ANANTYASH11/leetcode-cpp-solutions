@@ -21,3 +21,5 @@
 <!-- update 2026-04-09T16:16:49+05:30: docs: document Kadane algorithm intuition for maximum subarray -->
 
 <!-- update 2026-04-10T10:02:49+05:30: docs: update problem catalog and topic categorization in README -->
+
+<!-- update 2026-04-12T11:54:10+05:30: test: add boundary test cases for empty arrays and single elements -->
