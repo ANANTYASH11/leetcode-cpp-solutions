@@ -13,3 +13,5 @@ Reference patterns for DFS, BFS, Sliding Window, and Dynamic Programming.
 <!-- update 2026-04-07T11:40:54+05:30: fix: address integer overflow edge cases in reverse integer -->
 
 <!-- update 2026-04-10T11:36:25+05:30: refactor: iteratively reverse linked list with three pointers -->
+
+<!-- update 2026-04-14T22:34:18+05:30: refactor: optimize string prefix comparison in longest common prefix -->
