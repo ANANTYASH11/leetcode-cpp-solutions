@@ -25,3 +25,5 @@
 <!-- update 2026-04-12T11:54:10+05:30: test: add boundary test cases for empty arrays and single elements -->
 
 <!-- update 2026-04-14T21:58:43+05:30: perf: reduce space complexity to O(1) in Fibonacci transition -->
+
+<!-- update 2026-04-15T10:39:13+05:30: feat: solve binary tree inorder traversal using Morris Traversal -->
