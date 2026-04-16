@@ -27,3 +27,5 @@
 <!-- update 2026-04-14T21:58:43+05:30: perf: reduce space complexity to O(1) in Fibonacci transition -->
 
 <!-- update 2026-04-15T10:39:13+05:30: feat: solve binary tree inorder traversal using Morris Traversal -->
+
+<!-- update 2026-04-16T22:14:32+05:30: docs: add detailed diagrams for tree recursion branches -->
