@@ -35,3 +35,5 @@
 <!-- update 2026-04-17T10:37:11+05:30: refactor: optimize string prefix comparison in longest common prefix -->
 
 <!-- update 2026-04-17T14:10:25+05:30: perf: optimize memory allocations by pre-reserving vector capacity -->
+
+<!-- update 2026-04-17T14:38:57+05:30: docs: add detailed diagrams for tree recursion branches -->
