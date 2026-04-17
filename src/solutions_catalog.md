@@ -31,3 +31,5 @@
 <!-- update 2026-04-16T22:14:32+05:30: docs: add detailed diagrams for tree recursion branches -->
 
 <!-- update 2026-04-17T10:14:29+05:30: refactor: optimize string prefix comparison in longest common prefix -->
+
+<!-- update 2026-04-17T10:37:11+05:30: refactor: optimize string prefix comparison in longest common prefix -->
