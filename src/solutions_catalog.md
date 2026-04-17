@@ -33,3 +33,5 @@
 <!-- update 2026-04-17T10:14:29+05:30: refactor: optimize string prefix comparison in longest common prefix -->
 
 <!-- update 2026-04-17T10:37:11+05:30: refactor: optimize string prefix comparison in longest common prefix -->
+
+<!-- update 2026-04-17T14:10:25+05:30: perf: optimize memory allocations by pre-reserving vector capacity -->
