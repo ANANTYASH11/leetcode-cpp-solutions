@@ -26,3 +26,5 @@ Curated algorithmic problem solutions in modern C++ with in-depth time and space
 <!-- update 2026-04-14T12:01:45+05:30: refactor: iteratively reverse linked list with three pointers -->
 
 <!-- update 2026-04-16T17:21:27+05:30: perf: optimize memory allocations by pre-reserving vector capacity -->
+
+<!-- update 2026-04-17T10:08:57+05:30: fix: address integer overflow edge cases in reverse integer -->
