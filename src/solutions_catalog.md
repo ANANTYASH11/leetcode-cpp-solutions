@@ -29,3 +29,5 @@
 <!-- update 2026-04-15T10:39:13+05:30: feat: solve binary tree inorder traversal using Morris Traversal -->
 
 <!-- update 2026-04-16T22:14:32+05:30: docs: add detailed diagrams for tree recursion branches -->
+
+<!-- update 2026-04-17T10:14:29+05:30: refactor: optimize string prefix comparison in longest common prefix -->
