@@ -19,3 +19,5 @@ Reference patterns for DFS, BFS, Sliding Window, and Dynamic Programming.
 <!-- update 2026-04-16T15:49:35+05:30: refactor: clean up variable names and helper functions -->
 
 <!-- update 2026-04-17T21:39:55+05:30: feat: solve two sum using unordered_map for O(n) lookup -->
+
+<!-- update 2026-04-18T16:24:41+05:30: fix: handle edge case with single-node list in merge sorted lists -->
