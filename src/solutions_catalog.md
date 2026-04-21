@@ -43,3 +43,5 @@
 <!-- update 2026-04-17T23:14:36+05:30: docs: document Kadane algorithm intuition for maximum subarray -->
 
 <!-- update 2026-04-18T17:10:56+05:30: fix: handle edge case with single-node list in merge sorted lists -->
+
+<!-- update 2026-04-21T10:13:31+05:30: feat: implement binary search with lower bound predicate -->
