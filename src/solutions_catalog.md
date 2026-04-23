@@ -45,3 +45,5 @@
 <!-- update 2026-04-18T17:10:56+05:30: fix: handle edge case with single-node list in merge sorted lists -->
 
 <!-- update 2026-04-21T10:13:31+05:30: feat: implement binary search with lower bound predicate -->
+
+<!-- update 2026-04-23T10:36:41+05:30: perf: reduce space complexity to O(1) in Fibonacci transition -->
