@@ -23,3 +23,5 @@ Reference patterns for DFS, BFS, Sliding Window, and Dynamic Programming.
 <!-- update 2026-04-18T16:24:41+05:30: fix: handle edge case with single-node list in merge sorted lists -->
 
 <!-- update 2026-04-21T11:51:30+05:30: perf: optimize memory allocations by pre-reserving vector capacity -->
+
+<!-- update 2026-04-23T15:55:52+05:30: refactor: optimize string prefix comparison in longest common prefix -->
