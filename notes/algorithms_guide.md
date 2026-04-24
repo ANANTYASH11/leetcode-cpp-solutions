@@ -25,3 +25,5 @@ Reference patterns for DFS, BFS, Sliding Window, and Dynamic Programming.
 <!-- update 2026-04-21T11:51:30+05:30: perf: optimize memory allocations by pre-reserving vector capacity -->
 
 <!-- update 2026-04-23T15:55:52+05:30: refactor: optimize string prefix comparison in longest common prefix -->
+
+<!-- update 2026-04-24T17:17:15+05:30: feat: solve two sum using unordered_map for O(n) lookup -->
