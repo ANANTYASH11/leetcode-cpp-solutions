@@ -32,3 +32,5 @@ Curated algorithmic problem solutions in modern C++ with in-depth time and space
 <!-- update 2026-04-19T16:23:01+05:30: docs: add detailed diagrams for tree recursion branches -->
 
 <!-- update 2026-04-23T21:10:08+05:30: test: add boundary test cases for empty arrays and single elements -->
+
+<!-- update 2026-04-24T11:10:28+05:30: feat: invert binary tree using postorder swap -->
