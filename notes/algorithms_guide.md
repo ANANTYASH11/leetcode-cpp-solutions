@@ -27,3 +27,5 @@ Reference patterns for DFS, BFS, Sliding Window, and Dynamic Programming.
 <!-- update 2026-04-23T15:55:52+05:30: refactor: optimize string prefix comparison in longest common prefix -->
 
 <!-- update 2026-04-24T17:17:15+05:30: feat: solve two sum using unordered_map for O(n) lookup -->
+
+<!-- update 2026-04-25T14:52:45+05:30: feat: invert binary tree using postorder swap -->
