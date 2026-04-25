@@ -29,3 +29,5 @@ Reference patterns for DFS, BFS, Sliding Window, and Dynamic Programming.
 <!-- update 2026-04-24T17:17:15+05:30: feat: solve two sum using unordered_map for O(n) lookup -->
 
 <!-- update 2026-04-25T14:52:45+05:30: feat: invert binary tree using postorder swap -->
+
+<!-- update 2026-04-25T17:22:59+05:30: perf: reduce space complexity to O(1) in Fibonacci transition -->
