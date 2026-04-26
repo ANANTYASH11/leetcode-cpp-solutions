@@ -34,3 +34,5 @@ Curated algorithmic problem solutions in modern C++ with in-depth time and space
 <!-- update 2026-04-23T21:10:08+05:30: test: add boundary test cases for empty arrays and single elements -->
 
 <!-- update 2026-04-24T11:10:28+05:30: feat: invert binary tree using postorder swap -->
+
+<!-- update 2026-04-26T12:16:40+05:30: feat: solve binary tree inorder traversal using Morris Traversal -->
