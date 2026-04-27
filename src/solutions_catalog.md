@@ -49,3 +49,5 @@
 <!-- update 2026-04-23T10:36:41+05:30: perf: reduce space complexity to O(1) in Fibonacci transition -->
 
 <!-- update 2026-04-27T10:48:25+05:30: feat: implement binary search with lower bound predicate -->
+
+<!-- update 2026-04-27T17:00:55+05:30: feat: implement in-place duplicate removal with two pointers -->
