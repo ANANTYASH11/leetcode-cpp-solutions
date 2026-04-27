@@ -51,3 +51,5 @@
 <!-- update 2026-04-27T10:48:25+05:30: feat: implement binary search with lower bound predicate -->
 
 <!-- update 2026-04-27T17:00:55+05:30: feat: implement in-place duplicate removal with two pointers -->
+
+<!-- update 2026-04-27T17:37:30+05:30: test: add boundary test cases for empty arrays and single elements -->
