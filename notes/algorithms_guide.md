@@ -31,3 +31,5 @@ Reference patterns for DFS, BFS, Sliding Window, and Dynamic Programming.
 <!-- update 2026-04-25T14:52:45+05:30: feat: invert binary tree using postorder swap -->
 
 <!-- update 2026-04-25T17:22:59+05:30: perf: reduce space complexity to O(1) in Fibonacci transition -->
+
+<!-- update 2026-04-28T15:55:56+05:30: test: add boundary test cases for empty arrays and single elements -->
