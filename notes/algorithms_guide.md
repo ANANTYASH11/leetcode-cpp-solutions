@@ -35,3 +35,5 @@ Reference patterns for DFS, BFS, Sliding Window, and Dynamic Programming.
 <!-- update 2026-04-28T15:55:56+05:30: test: add boundary test cases for empty arrays and single elements -->
 
 <!-- update 2026-04-28T16:32:29+05:30: perf: optimize memory allocations by pre-reserving vector capacity -->
+
+<!-- update 2026-04-29T16:31:37+05:30: feat: solve valid anagram with frequency array -->
