@@ -42,3 +42,5 @@ Curated algorithmic problem solutions in modern C++ with in-depth time and space
 <!-- update 2026-04-26T16:29:26+05:30: docs: add time and space complexity notes for palindrome number -->
 
 <!-- update 2026-04-30T10:07:50+05:30: feat: invert binary tree using postorder swap -->
+
+<!-- update 2026-05-01T21:09:02+05:30: feat: solve climbing stairs using bottom-up dynamic programming -->
