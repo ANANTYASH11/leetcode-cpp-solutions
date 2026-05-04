@@ -44,3 +44,5 @@ Curated algorithmic problem solutions in modern C++ with in-depth time and space
 <!-- update 2026-04-30T10:07:50+05:30: feat: invert binary tree using postorder swap -->
 
 <!-- update 2026-05-01T21:09:02+05:30: feat: solve climbing stairs using bottom-up dynamic programming -->
+
+<!-- update 2026-05-04T16:02:43+05:30: feat: implement recursive symmetric tree check -->
