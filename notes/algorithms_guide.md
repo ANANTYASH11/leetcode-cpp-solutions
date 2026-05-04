@@ -37,3 +37,5 @@ Reference patterns for DFS, BFS, Sliding Window, and Dynamic Programming.
 <!-- update 2026-04-28T16:32:29+05:30: perf: optimize memory allocations by pre-reserving vector capacity -->
 
 <!-- update 2026-04-29T16:31:37+05:30: feat: solve valid anagram with frequency array -->
+
+<!-- update 2026-05-04T23:56:10+05:30: docs: update problem catalog and topic categorization in README -->
