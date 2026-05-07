@@ -50,3 +50,5 @@ Curated algorithmic problem solutions in modern C++ with in-depth time and space
 <!-- update 2026-05-05T19:32:18+05:30: docs: add detailed diagrams for tree recursion branches -->
 
 <!-- update 2026-05-07T12:16:32+05:30: feat: invert binary tree using postorder swap -->
+
+<!-- update 2026-05-07T17:03:30+05:30: feat: invert binary tree using postorder swap -->
