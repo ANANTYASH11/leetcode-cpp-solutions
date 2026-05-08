@@ -54,3 +54,5 @@ Curated algorithmic problem solutions in modern C++ with in-depth time and space
 <!-- update 2026-05-07T17:03:30+05:30: feat: invert binary tree using postorder swap -->
 
 <!-- update 2026-05-07T19:36:31+05:30: feat: solve best time to buy and sell stock with single pass greedy -->
+
+<!-- update 2026-05-08T22:22:14+05:30: refactor: iteratively reverse linked list with three pointers -->
