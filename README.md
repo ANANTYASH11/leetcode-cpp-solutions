@@ -56,3 +56,5 @@ Curated algorithmic problem solutions in modern C++ with in-depth time and space
 <!-- update 2026-05-07T19:36:31+05:30: feat: solve best time to buy and sell stock with single pass greedy -->
 
 <!-- update 2026-05-08T22:22:14+05:30: refactor: iteratively reverse linked list with three pointers -->
+
+<!-- update 2026-05-09T19:29:40+05:30: feat: implement recursive symmetric tree check -->
