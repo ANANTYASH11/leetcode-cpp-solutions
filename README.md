@@ -58,3 +58,5 @@ Curated algorithmic problem solutions in modern C++ with in-depth time and space
 <!-- update 2026-05-08T22:22:14+05:30: refactor: iteratively reverse linked list with three pointers -->
 
 <!-- update 2026-05-09T19:29:40+05:30: feat: implement recursive symmetric tree check -->
+
+<!-- update 2026-05-10T22:16:44+05:30: fix: address integer overflow edge cases in reverse integer -->
