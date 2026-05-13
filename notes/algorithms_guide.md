@@ -41,3 +41,5 @@ Reference patterns for DFS, BFS, Sliding Window, and Dynamic Programming.
 <!-- update 2026-05-04T23:56:10+05:30: docs: update problem catalog and topic categorization in README -->
 
 <!-- update 2026-05-08T23:31:39+05:30: fix: address integer overflow edge cases in reverse integer -->
+
+<!-- update 2026-05-13T22:23:00+05:30: feat: solve two sum using unordered_map for O(n) lookup -->
