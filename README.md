@@ -64,3 +64,5 @@ Curated algorithmic problem solutions in modern C++ with in-depth time and space
 <!-- update 2026-05-12T21:32:11+05:30: refactor: iteratively reverse linked list with three pointers -->
 
 <!-- update 2026-05-13T17:04:46+05:30: feat: solve best time to buy and sell stock with single pass greedy -->
+
+<!-- update 2026-05-13T19:01:06+05:30: refactor: optimize string prefix comparison in longest common prefix -->
