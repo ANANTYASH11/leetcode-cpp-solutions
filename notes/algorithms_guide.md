@@ -43,3 +43,5 @@ Reference patterns for DFS, BFS, Sliding Window, and Dynamic Programming.
 <!-- update 2026-05-08T23:31:39+05:30: fix: address integer overflow edge cases in reverse integer -->
 
 <!-- update 2026-05-13T22:23:00+05:30: feat: solve two sum using unordered_map for O(n) lookup -->
+
+<!-- update 2026-05-14T17:18:43+05:30: feat: solve best time to buy and sell stock with single pass greedy -->
