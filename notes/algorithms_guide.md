@@ -49,3 +49,5 @@ Reference patterns for DFS, BFS, Sliding Window, and Dynamic Programming.
 <!-- update 2026-05-14T19:49:24+05:30: feat: implement recursive symmetric tree check -->
 
 <!-- update 2026-05-14T23:53:51+05:30: docs: document Kadane algorithm intuition for maximum subarray -->
+
+<!-- update 2026-05-15T21:57:36+05:30: feat: invert binary tree using postorder swap -->
