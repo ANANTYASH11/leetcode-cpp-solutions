@@ -51,3 +51,5 @@ Reference patterns for DFS, BFS, Sliding Window, and Dynamic Programming.
 <!-- update 2026-05-14T23:53:51+05:30: docs: document Kadane algorithm intuition for maximum subarray -->
 
 <!-- update 2026-05-15T21:57:36+05:30: feat: invert binary tree using postorder swap -->
+
+<!-- update 2026-05-17T22:53:16+05:30: feat: solve two sum using unordered_map for O(n) lookup -->
