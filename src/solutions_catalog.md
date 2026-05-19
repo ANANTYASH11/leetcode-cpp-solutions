@@ -61,3 +61,5 @@
 <!-- update 2026-05-13T12:19:11+05:30: feat: solve valid anagram with frequency array -->
 
 <!-- update 2026-05-15T17:46:19+05:30: refactor: clean up variable names and helper functions -->
+
+<!-- update 2026-05-19T14:00:58+05:30: docs: add detailed diagrams for tree recursion branches -->
