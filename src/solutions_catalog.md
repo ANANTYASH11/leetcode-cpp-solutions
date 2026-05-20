@@ -65,3 +65,5 @@
 <!-- update 2026-05-19T14:00:58+05:30: docs: add detailed diagrams for tree recursion branches -->
 
 <!-- update 2026-05-20T20:29:45+05:30: feat: solve best time to buy and sell stock with single pass greedy -->
+
+<!-- update 2026-05-20T22:40:07+05:30: docs: document Kadane algorithm intuition for maximum subarray -->
