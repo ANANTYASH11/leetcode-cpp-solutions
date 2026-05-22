@@ -69,3 +69,5 @@
 <!-- update 2026-05-20T22:40:07+05:30: docs: document Kadane algorithm intuition for maximum subarray -->
 
 <!-- update 2026-05-22T10:48:21+05:30: feat: solve best time to buy and sell stock with single pass greedy -->
+
+<!-- update 2026-05-22T20:02:17+05:30: docs: document Kadane algorithm intuition for maximum subarray -->
