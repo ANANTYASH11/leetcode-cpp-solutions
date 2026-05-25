@@ -70,3 +70,5 @@ Curated algorithmic problem solutions in modern C++ with in-depth time and space
 <!-- update 2026-05-15T15:42:35+05:30: refactor: optimize string prefix comparison in longest common prefix -->
 
 <!-- update 2026-05-20T23:17:09+05:30: feat: solve single number using bitwise XOR cancellation -->
+
+<!-- update 2026-05-25T11:06:52+05:30: docs: add detailed diagrams for tree recursion branches -->
