@@ -73,3 +73,5 @@
 <!-- update 2026-05-22T20:02:17+05:30: docs: document Kadane algorithm intuition for maximum subarray -->
 
 <!-- update 2026-05-22T20:37:27+05:30: feat: solve climbing stairs using bottom-up dynamic programming -->
+
+<!-- update 2026-05-25T12:06:54+05:30: test: add boundary test cases for empty arrays and single elements -->
