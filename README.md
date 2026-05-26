@@ -72,3 +72,5 @@ Curated algorithmic problem solutions in modern C++ with in-depth time and space
 <!-- update 2026-05-20T23:17:09+05:30: feat: solve single number using bitwise XOR cancellation -->
 
 <!-- update 2026-05-25T11:06:52+05:30: docs: add detailed diagrams for tree recursion branches -->
+
+<!-- update 2026-05-26T23:06:37+05:30: feat: solve valid parentheses with stack approach -->
