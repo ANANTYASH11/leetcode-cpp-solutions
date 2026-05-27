@@ -77,3 +77,5 @@
 <!-- update 2026-05-25T12:06:54+05:30: test: add boundary test cases for empty arrays and single elements -->
 
 <!-- update 2026-05-25T16:03:10+05:30: feat: solve valid anagram with frequency array -->
+
+<!-- update 2026-05-27T15:14:29+05:30: feat: solve best time to buy and sell stock with single pass greedy -->
