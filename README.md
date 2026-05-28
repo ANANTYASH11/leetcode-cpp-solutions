@@ -76,3 +76,5 @@ Curated algorithmic problem solutions in modern C++ with in-depth time and space
 <!-- update 2026-05-26T23:06:37+05:30: feat: solve valid parentheses with stack approach -->
 
 <!-- update 2026-05-27T15:25:39+05:30: feat: solve valid parentheses with stack approach -->
+
+<!-- update 2026-05-28T12:06:38+05:30: docs: document Kadane algorithm intuition for maximum subarray -->
