@@ -81,3 +81,5 @@
 <!-- update 2026-05-27T15:14:29+05:30: feat: solve best time to buy and sell stock with single pass greedy -->
 
 <!-- update 2026-05-28T23:32:01+05:30: docs: document Kadane algorithm intuition for maximum subarray -->
+
+<!-- update 2026-05-29T15:13:25+05:30: feat: invert binary tree using postorder swap -->
