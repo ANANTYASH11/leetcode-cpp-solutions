@@ -83,3 +83,5 @@
 <!-- update 2026-05-28T23:32:01+05:30: docs: document Kadane algorithm intuition for maximum subarray -->
 
 <!-- update 2026-05-29T15:13:25+05:30: feat: invert binary tree using postorder swap -->
+
+<!-- update 2026-06-01T11:02:43+05:30: feat: detect linked list cycle using Floyd Tortoise and Hare algorithm -->
