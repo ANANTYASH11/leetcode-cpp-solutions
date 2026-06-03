@@ -85,3 +85,5 @@
 <!-- update 2026-05-29T15:13:25+05:30: feat: invert binary tree using postorder swap -->
 
 <!-- update 2026-06-01T11:02:43+05:30: feat: detect linked list cycle using Floyd Tortoise and Hare algorithm -->
+
+<!-- update 2026-06-03T10:22:19+05:30: feat: invert binary tree using postorder swap -->
