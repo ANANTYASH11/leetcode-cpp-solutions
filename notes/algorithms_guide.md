@@ -71,3 +71,5 @@ Reference patterns for DFS, BFS, Sliding Window, and Dynamic Programming.
 <!-- update 2026-06-01T12:05:46+05:30: feat: solve best time to buy and sell stock with single pass greedy -->
 
 <!-- update 2026-06-03T11:45:12+05:30: feat: implement recursive symmetric tree check -->
+
+<!-- update 2026-06-03T19:58:09+05:30: feat: implement binary search with lower bound predicate -->
