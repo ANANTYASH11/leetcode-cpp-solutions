@@ -87,3 +87,5 @@
 <!-- update 2026-06-01T11:02:43+05:30: feat: detect linked list cycle using Floyd Tortoise and Hare algorithm -->
 
 <!-- update 2026-06-03T10:22:19+05:30: feat: invert binary tree using postorder swap -->
+
+<!-- update 2026-06-05T17:16:27+05:30: refactor: iteratively reverse linked list with three pointers -->
