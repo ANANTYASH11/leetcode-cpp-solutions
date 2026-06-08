@@ -89,3 +89,5 @@
 <!-- update 2026-06-03T10:22:19+05:30: feat: invert binary tree using postorder swap -->
 
 <!-- update 2026-06-05T17:16:27+05:30: refactor: iteratively reverse linked list with three pointers -->
+
+<!-- update 2026-06-08T12:03:10+05:30: feat: solve binary tree inorder traversal using Morris Traversal -->
