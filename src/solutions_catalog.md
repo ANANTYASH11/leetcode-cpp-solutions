@@ -91,3 +91,5 @@
 <!-- update 2026-06-05T17:16:27+05:30: refactor: iteratively reverse linked list with three pointers -->
 
 <!-- update 2026-06-08T12:03:10+05:30: feat: solve binary tree inorder traversal using Morris Traversal -->
+
+<!-- update 2026-06-09T12:27:37+05:30: feat: solve two sum using unordered_map for O(n) lookup -->
