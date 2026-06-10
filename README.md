@@ -84,3 +84,5 @@ Curated algorithmic problem solutions in modern C++ with in-depth time and space
 <!-- update 2026-06-08T14:52:29+05:30: feat: implement recursive symmetric tree check -->
 
 <!-- update 2026-06-09T22:24:05+05:30: docs: document Kadane algorithm intuition for maximum subarray -->
+
+<!-- update 2026-06-10T10:28:43+05:30: perf: reduce space complexity to O(1) in Fibonacci transition -->
