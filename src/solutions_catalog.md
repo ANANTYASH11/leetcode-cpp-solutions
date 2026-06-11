@@ -93,3 +93,5 @@
 <!-- update 2026-06-08T12:03:10+05:30: feat: solve binary tree inorder traversal using Morris Traversal -->
 
 <!-- update 2026-06-09T12:27:37+05:30: feat: solve two sum using unordered_map for O(n) lookup -->
+
+<!-- update 2026-06-11T21:08:20+05:30: feat: implement binary search with lower bound predicate -->
