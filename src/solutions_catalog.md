@@ -95,3 +95,5 @@
 <!-- update 2026-06-09T12:27:37+05:30: feat: solve two sum using unordered_map for O(n) lookup -->
 
 <!-- update 2026-06-11T21:08:20+05:30: feat: implement binary search with lower bound predicate -->
+
+<!-- update 2026-06-14T16:17:22+05:30: feat: detect linked list cycle using Floyd Tortoise and Hare algorithm -->
