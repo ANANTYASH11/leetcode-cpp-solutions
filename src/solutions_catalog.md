@@ -97,3 +97,5 @@
 <!-- update 2026-06-11T21:08:20+05:30: feat: implement binary search with lower bound predicate -->
 
 <!-- update 2026-06-14T16:17:22+05:30: feat: detect linked list cycle using Floyd Tortoise and Hare algorithm -->
+
+<!-- update 2026-06-19T20:46:10+05:30: feat: solve valid anagram with frequency array -->
