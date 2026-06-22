@@ -85,3 +85,5 @@ Reference patterns for DFS, BFS, Sliding Window, and Dynamic Programming.
 <!-- update 2026-06-22T19:55:28+05:30: docs: document Kadane algorithm intuition for maximum subarray -->
 
 <!-- update 2026-06-22T19:59:04+05:30: fix: handle edge case with single-node list in merge sorted lists -->
+
+<!-- update 2026-06-22T21:04:44+05:30: docs: document Kadane algorithm intuition for maximum subarray -->
