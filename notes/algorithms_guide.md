@@ -79,3 +79,5 @@ Reference patterns for DFS, BFS, Sliding Window, and Dynamic Programming.
 <!-- update 2026-06-15T15:58:32+05:30: refactor: iteratively reverse linked list with three pointers -->
 
 <!-- update 2026-06-18T19:56:40+05:30: feat: solve binary tree inorder traversal using Morris Traversal -->
+
+<!-- update 2026-06-22T14:02:33+05:30: feat: implement recursive symmetric tree check -->
