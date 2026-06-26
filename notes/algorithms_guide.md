@@ -89,3 +89,5 @@ Reference patterns for DFS, BFS, Sliding Window, and Dynamic Programming.
 <!-- update 2026-06-22T21:04:44+05:30: docs: document Kadane algorithm intuition for maximum subarray -->
 
 <!-- update 2026-06-23T21:21:41+05:30: feat: implement in-place duplicate removal with two pointers -->
+
+<!-- update 2026-06-26T12:15:24+05:30: refactor: iteratively reverse linked list with three pointers -->
