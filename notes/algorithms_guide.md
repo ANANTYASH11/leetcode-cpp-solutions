@@ -91,3 +91,5 @@ Reference patterns for DFS, BFS, Sliding Window, and Dynamic Programming.
 <!-- update 2026-06-23T21:21:41+05:30: feat: implement in-place duplicate removal with two pointers -->
 
 <!-- update 2026-06-26T12:15:24+05:30: refactor: iteratively reverse linked list with three pointers -->
+
+<!-- update 2026-06-26T12:57:02+05:30: feat: solve two sum using unordered_map for O(n) lookup -->
