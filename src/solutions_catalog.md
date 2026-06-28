@@ -101,3 +101,5 @@
 <!-- update 2026-06-19T20:46:10+05:30: feat: solve valid anagram with frequency array -->
 
 <!-- update 2026-06-21T14:29:56+05:30: fix: handle edge case with single-node list in merge sorted lists -->
+
+<!-- update 2026-06-28T14:31:09+05:30: feat: detect linked list cycle using Floyd Tortoise and Hare algorithm -->
