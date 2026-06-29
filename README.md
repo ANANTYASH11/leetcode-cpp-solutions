@@ -96,3 +96,5 @@ Curated algorithmic problem solutions in modern C++ with in-depth time and space
 <!-- update 2026-06-18T16:05:08+05:30: feat: solve single number using bitwise XOR cancellation -->
 
 <!-- update 2026-06-29T19:35:13+05:30: feat: implement recursive symmetric tree check -->
+
+<!-- update 2026-06-29T22:17:45+05:30: feat: invert binary tree using postorder swap -->
