@@ -94,3 +94,5 @@ Curated algorithmic problem solutions in modern C++ with in-depth time and space
 <!-- update 2026-06-18T12:24:39+05:30: perf: reduce space complexity to O(1) in Fibonacci transition -->
 
 <!-- update 2026-06-18T16:05:08+05:30: feat: solve single number using bitwise XOR cancellation -->
+
+<!-- update 2026-06-29T19:35:13+05:30: feat: implement recursive symmetric tree check -->
