@@ -93,3 +93,5 @@ Reference patterns for DFS, BFS, Sliding Window, and Dynamic Programming.
 <!-- update 2026-06-26T12:15:24+05:30: refactor: iteratively reverse linked list with three pointers -->
 
 <!-- update 2026-06-26T12:57:02+05:30: feat: solve two sum using unordered_map for O(n) lookup -->
+
+<!-- update 2026-07-01T17:30:34+05:30: feat: detect linked list cycle using Floyd Tortoise and Hare algorithm -->
