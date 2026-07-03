@@ -95,3 +95,5 @@ Reference patterns for DFS, BFS, Sliding Window, and Dynamic Programming.
 <!-- update 2026-06-26T12:57:02+05:30: feat: solve two sum using unordered_map for O(n) lookup -->
 
 <!-- update 2026-07-01T17:30:34+05:30: feat: detect linked list cycle using Floyd Tortoise and Hare algorithm -->
+
+<!-- update 2026-07-03T20:20:26+05:30: feat: solve climbing stairs using bottom-up dynamic programming -->
