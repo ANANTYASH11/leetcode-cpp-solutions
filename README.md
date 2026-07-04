@@ -98,3 +98,5 @@ Curated algorithmic problem solutions in modern C++ with in-depth time and space
 <!-- update 2026-06-29T19:35:13+05:30: feat: implement recursive symmetric tree check -->
 
 <!-- update 2026-06-29T22:17:45+05:30: feat: invert binary tree using postorder swap -->
+
+<!-- update 2026-07-04T11:56:21+05:30: feat: detect linked list cycle using Floyd Tortoise and Hare algorithm -->
