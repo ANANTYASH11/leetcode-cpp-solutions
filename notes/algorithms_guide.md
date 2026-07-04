@@ -97,3 +97,5 @@ Reference patterns for DFS, BFS, Sliding Window, and Dynamic Programming.
 <!-- update 2026-07-01T17:30:34+05:30: feat: detect linked list cycle using Floyd Tortoise and Hare algorithm -->
 
 <!-- update 2026-07-03T20:20:26+05:30: feat: solve climbing stairs using bottom-up dynamic programming -->
+
+<!-- update 2026-07-04T21:24:08+05:30: feat: solve valid anagram with frequency array -->
