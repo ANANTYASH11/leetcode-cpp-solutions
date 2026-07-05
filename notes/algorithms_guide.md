@@ -99,3 +99,5 @@ Reference patterns for DFS, BFS, Sliding Window, and Dynamic Programming.
 <!-- update 2026-07-03T20:20:26+05:30: feat: solve climbing stairs using bottom-up dynamic programming -->
 
 <!-- update 2026-07-04T21:24:08+05:30: feat: solve valid anagram with frequency array -->
+
+<!-- update 2026-07-05T14:51:10+05:30: feat: implement in-place duplicate removal with two pointers -->
