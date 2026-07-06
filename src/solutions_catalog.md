@@ -107,3 +107,5 @@
 <!-- update 2026-06-30T11:58:45+05:30: fix: handle edge case with single-node list in merge sorted lists -->
 
 <!-- update 2026-07-01T16:38:43+05:30: feat: solve climbing stairs using bottom-up dynamic programming -->
+
+<!-- update 2026-07-06T11:08:59+05:30: feat: solve climbing stairs using bottom-up dynamic programming -->
