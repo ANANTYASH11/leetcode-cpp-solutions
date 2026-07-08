@@ -106,3 +106,5 @@ Curated algorithmic problem solutions in modern C++ with in-depth time and space
 <!-- update 2026-07-06T22:48:56+05:30: feat: implement recursive symmetric tree check -->
 
 <!-- update 2026-07-07T16:44:55+05:30: perf: reduce space complexity to O(1) in Fibonacci transition -->
+
+<!-- update 2026-07-08T15:12:41+05:30: feat: implement in-place duplicate removal with two pointers -->
