@@ -103,3 +103,5 @@ Reference patterns for DFS, BFS, Sliding Window, and Dynamic Programming.
 <!-- update 2026-07-05T14:51:10+05:30: feat: implement in-place duplicate removal with two pointers -->
 
 <!-- update 2026-07-05T20:14:51+05:30: feat: solve climbing stairs using bottom-up dynamic programming -->
+
+<!-- update 2026-07-08T10:40:52+05:30: test: add boundary test cases for empty arrays and single elements -->
