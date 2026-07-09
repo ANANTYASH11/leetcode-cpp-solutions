@@ -111,3 +111,5 @@
 <!-- update 2026-07-06T11:08:59+05:30: feat: solve climbing stairs using bottom-up dynamic programming -->
 
 <!-- update 2026-07-06T22:54:03+05:30: feat: solve two sum using unordered_map for O(n) lookup -->
+
+<!-- update 2026-07-09T11:10:56+05:30: feat: solve maximum depth of binary tree with DFS traversal -->
