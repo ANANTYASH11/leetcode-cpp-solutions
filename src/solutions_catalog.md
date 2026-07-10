@@ -113,3 +113,5 @@
 <!-- update 2026-07-06T22:54:03+05:30: feat: solve two sum using unordered_map for O(n) lookup -->
 
 <!-- update 2026-07-09T11:10:56+05:30: feat: solve maximum depth of binary tree with DFS traversal -->
+
+<!-- update 2026-07-10T12:35:30+05:30: perf: optimize memory allocations by pre-reserving vector capacity -->
