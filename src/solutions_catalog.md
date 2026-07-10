@@ -115,3 +115,5 @@
 <!-- update 2026-07-09T11:10:56+05:30: feat: solve maximum depth of binary tree with DFS traversal -->
 
 <!-- update 2026-07-10T12:35:30+05:30: perf: optimize memory allocations by pre-reserving vector capacity -->
+
+<!-- update 2026-07-10T16:17:11+05:30: fix: handle edge case with single-node list in merge sorted lists -->
