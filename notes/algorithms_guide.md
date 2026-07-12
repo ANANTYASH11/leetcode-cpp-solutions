@@ -107,3 +107,5 @@ Reference patterns for DFS, BFS, Sliding Window, and Dynamic Programming.
 <!-- update 2026-07-08T10:40:52+05:30: test: add boundary test cases for empty arrays and single elements -->
 
 <!-- update 2026-07-08T12:44:55+05:30: feat: solve valid anagram with frequency array -->
+
+<!-- update 2026-07-12T23:39:34+05:30: fix: handle edge case with single-node list in merge sorted lists -->
