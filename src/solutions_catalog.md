@@ -117,3 +117,5 @@
 <!-- update 2026-07-10T12:35:30+05:30: perf: optimize memory allocations by pre-reserving vector capacity -->
 
 <!-- update 2026-07-10T16:17:11+05:30: fix: handle edge case with single-node list in merge sorted lists -->
+
+<!-- update 2026-07-13T15:47:29+05:30: docs: add detailed diagrams for tree recursion branches -->
