@@ -119,3 +119,5 @@
 <!-- update 2026-07-10T16:17:11+05:30: fix: handle edge case with single-node list in merge sorted lists -->
 
 <!-- update 2026-07-13T15:47:29+05:30: docs: add detailed diagrams for tree recursion branches -->
+
+<!-- update 2026-07-14T11:32:16+05:30: refactor: iteratively reverse linked list with three pointers -->
