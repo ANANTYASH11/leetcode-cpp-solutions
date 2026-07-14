@@ -111,3 +111,5 @@ Reference patterns for DFS, BFS, Sliding Window, and Dynamic Programming.
 <!-- update 2026-07-12T23:39:34+05:30: fix: handle edge case with single-node list in merge sorted lists -->
 
 <!-- update 2026-07-13T12:14:56+05:30: feat: implement in-place duplicate removal with two pointers -->
+
+<!-- update 2026-07-14T12:43:25+05:30: feat: solve maximum depth of binary tree with DFS traversal -->
