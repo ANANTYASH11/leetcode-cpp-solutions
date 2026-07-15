@@ -113,3 +113,5 @@ Reference patterns for DFS, BFS, Sliding Window, and Dynamic Programming.
 <!-- update 2026-07-13T12:14:56+05:30: feat: implement in-place duplicate removal with two pointers -->
 
 <!-- update 2026-07-14T12:43:25+05:30: feat: solve maximum depth of binary tree with DFS traversal -->
+
+<!-- update 2026-07-15T23:06:59+05:30: docs: add time and space complexity notes for palindrome number -->
