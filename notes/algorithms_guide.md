@@ -115,3 +115,5 @@ Reference patterns for DFS, BFS, Sliding Window, and Dynamic Programming.
 <!-- update 2026-07-14T12:43:25+05:30: feat: solve maximum depth of binary tree with DFS traversal -->
 
 <!-- update 2026-07-15T23:06:59+05:30: docs: add time and space complexity notes for palindrome number -->
+
+<!-- update 2026-07-16T11:02:37+05:30: fix: handle edge case with single-node list in merge sorted lists -->
