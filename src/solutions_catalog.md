@@ -121,3 +121,5 @@
 <!-- update 2026-07-13T15:47:29+05:30: docs: add detailed diagrams for tree recursion branches -->
 
 <!-- update 2026-07-14T11:32:16+05:30: refactor: iteratively reverse linked list with three pointers -->
+
+<!-- update 2026-07-17T21:49:37+05:30: test: add boundary test cases for empty arrays and single elements -->
