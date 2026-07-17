@@ -114,3 +114,5 @@ Curated algorithmic problem solutions in modern C++ with in-depth time and space
 <!-- update 2026-07-09T10:18:32+05:30: feat: implement in-place duplicate removal with two pointers -->
 
 <!-- update 2026-07-14T23:18:15+05:30: feat: solve valid parentheses with stack approach -->
+
+<!-- update 2026-07-17T23:48:56+05:30: docs: update problem catalog and topic categorization in README -->
