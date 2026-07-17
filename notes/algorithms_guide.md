@@ -117,3 +117,5 @@ Reference patterns for DFS, BFS, Sliding Window, and Dynamic Programming.
 <!-- update 2026-07-15T23:06:59+05:30: docs: add time and space complexity notes for palindrome number -->
 
 <!-- update 2026-07-16T11:02:37+05:30: fix: handle edge case with single-node list in merge sorted lists -->
+
+<!-- update 2026-07-17T12:25:19+05:30: test: add boundary test cases for empty arrays and single elements -->
