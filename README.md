@@ -118,3 +118,5 @@ Curated algorithmic problem solutions in modern C++ with in-depth time and space
 <!-- update 2026-07-17T23:48:56+05:30: docs: update problem catalog and topic categorization in README -->
 
 <!-- update 2026-07-20T15:46:53+05:30: test: add boundary test cases for empty arrays and single elements -->
+
+<!-- update 2026-07-22T15:53:42+05:30: feat: solve climbing stairs using bottom-up dynamic programming -->
