@@ -123,3 +123,5 @@
 <!-- update 2026-07-14T11:32:16+05:30: refactor: iteratively reverse linked list with three pointers -->
 
 <!-- update 2026-07-17T21:49:37+05:30: test: add boundary test cases for empty arrays and single elements -->
+
+<!-- update 2026-07-22T11:49:15+05:30: feat: implement recursive symmetric tree check -->
