@@ -124,3 +124,5 @@ Curated algorithmic problem solutions in modern C++ with in-depth time and space
 <!-- update 2026-07-22T19:47:00+05:30: feat: invert binary tree using postorder swap -->
 
 <!-- update 2026-07-22T20:11:59+05:30: docs: update problem catalog and topic categorization in README -->
+
+<!-- update 2026-07-23T17:46:23+05:30: feat: implement recursive symmetric tree check -->
