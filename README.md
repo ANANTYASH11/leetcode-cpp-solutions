@@ -126,3 +126,5 @@ Curated algorithmic problem solutions in modern C++ with in-depth time and space
 <!-- update 2026-07-22T20:11:59+05:30: docs: update problem catalog and topic categorization in README -->
 
 <!-- update 2026-07-23T17:46:23+05:30: feat: implement recursive symmetric tree check -->
+
+<!-- update 2026-07-24T12:53:09+05:30: feat: solve binary tree inorder traversal using Morris Traversal -->
