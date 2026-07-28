@@ -125,3 +125,5 @@
 <!-- update 2026-07-17T21:49:37+05:30: test: add boundary test cases for empty arrays and single elements -->
 
 <!-- update 2026-07-22T11:49:15+05:30: feat: implement recursive symmetric tree check -->
+
+<!-- update 2026-07-28T22:07:46+05:30: fix: handle edge case with single-node list in merge sorted lists -->
