@@ -127,3 +127,5 @@
 <!-- update 2026-07-22T11:49:15+05:30: feat: implement recursive symmetric tree check -->
 
 <!-- update 2026-07-28T22:07:46+05:30: fix: handle edge case with single-node list in merge sorted lists -->
+
+<!-- update 2026-07-29T21:58:00+05:30: fix: address integer overflow edge cases in reverse integer -->
