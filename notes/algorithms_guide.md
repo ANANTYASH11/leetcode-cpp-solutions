@@ -123,3 +123,5 @@ Reference patterns for DFS, BFS, Sliding Window, and Dynamic Programming.
 <!-- update 2026-07-21T10:48:38+05:30: docs: add time and space complexity notes for palindrome number -->
 
 <!-- update 2026-07-25T23:10:48+05:30: fix: handle edge case with single-node list in merge sorted lists -->
+
+<!-- update 2026-07-29T19:00:25+05:30: feat: implement recursive symmetric tree check -->
