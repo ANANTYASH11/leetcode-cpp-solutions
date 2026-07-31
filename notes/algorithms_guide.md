@@ -125,3 +125,5 @@ Reference patterns for DFS, BFS, Sliding Window, and Dynamic Programming.
 <!-- update 2026-07-25T23:10:48+05:30: fix: handle edge case with single-node list in merge sorted lists -->
 
 <!-- update 2026-07-29T19:00:25+05:30: feat: implement recursive symmetric tree check -->
+
+<!-- update 2026-07-31T10:57:04+05:30: feat: implement binary search with lower bound predicate -->
