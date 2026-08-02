@@ -129,3 +129,5 @@
 <!-- update 2026-07-28T22:07:46+05:30: fix: handle edge case with single-node list in merge sorted lists -->
 
 <!-- update 2026-07-29T21:58:00+05:30: fix: address integer overflow edge cases in reverse integer -->
+
+<!-- update 2026-08-02T22:03:49+05:30: docs: update problem catalog and topic categorization in README -->
