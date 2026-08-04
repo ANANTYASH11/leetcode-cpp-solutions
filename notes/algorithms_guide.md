@@ -129,3 +129,5 @@ Reference patterns for DFS, BFS, Sliding Window, and Dynamic Programming.
 <!-- update 2026-07-31T10:57:04+05:30: feat: implement binary search with lower bound predicate -->
 
 <!-- update 2026-08-04T10:52:59+05:30: feat: solve valid anagram with frequency array -->
+
+<!-- update 2026-08-04T12:33:09+05:30: feat: solve best time to buy and sell stock with single pass greedy -->
