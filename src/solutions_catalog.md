@@ -131,3 +131,5 @@
 <!-- update 2026-07-29T21:58:00+05:30: fix: address integer overflow edge cases in reverse integer -->
 
 <!-- update 2026-08-02T22:03:49+05:30: docs: update problem catalog and topic categorization in README -->
+
+<!-- update 2026-08-05T17:48:12+05:30: docs: document Kadane algorithm intuition for maximum subarray -->
