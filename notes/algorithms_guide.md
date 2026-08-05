@@ -133,3 +133,5 @@ Reference patterns for DFS, BFS, Sliding Window, and Dynamic Programming.
 <!-- update 2026-08-04T12:33:09+05:30: feat: solve best time to buy and sell stock with single pass greedy -->
 
 <!-- update 2026-08-04T19:23:44+05:30: refactor: iteratively reverse linked list with three pointers -->
+
+<!-- update 2026-08-05T17:40:20+05:30: fix: address integer overflow edge cases in reverse integer -->
