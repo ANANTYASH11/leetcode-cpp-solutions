@@ -139,3 +139,5 @@
 <!-- update 2026-08-06T17:24:54+05:30: feat: solve climbing stairs using bottom-up dynamic programming -->
 
 <!-- update 2026-08-06T21:58:58+05:30: docs: add detailed diagrams for tree recursion branches -->
+
+<!-- update 2026-08-06T22:29:45+05:30: feat: solve two sum using unordered_map for O(n) lookup -->
