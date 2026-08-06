@@ -132,3 +132,5 @@ Curated algorithmic problem solutions in modern C++ with in-depth time and space
 <!-- update 2026-08-03T16:03:52+05:30: feat: solve single number using bitwise XOR cancellation -->
 
 <!-- update 2026-08-05T20:14:49+05:30: test: add boundary test cases for empty arrays and single elements -->
+
+<!-- update 2026-08-06T19:16:28+05:30: feat: implement recursive symmetric tree check -->
