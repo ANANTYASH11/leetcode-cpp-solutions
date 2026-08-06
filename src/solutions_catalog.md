@@ -133,3 +133,5 @@
 <!-- update 2026-08-02T22:03:49+05:30: docs: update problem catalog and topic categorization in README -->
 
 <!-- update 2026-08-05T17:48:12+05:30: docs: document Kadane algorithm intuition for maximum subarray -->
+
+<!-- update 2026-08-06T15:02:10+05:30: docs: document Kadane algorithm intuition for maximum subarray -->
