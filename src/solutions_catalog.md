@@ -137,3 +137,5 @@
 <!-- update 2026-08-06T15:02:10+05:30: docs: document Kadane algorithm intuition for maximum subarray -->
 
 <!-- update 2026-08-06T17:24:54+05:30: feat: solve climbing stairs using bottom-up dynamic programming -->
+
+<!-- update 2026-08-06T21:58:58+05:30: docs: add detailed diagrams for tree recursion branches -->
