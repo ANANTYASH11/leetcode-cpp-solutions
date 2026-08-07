@@ -141,3 +141,5 @@
 <!-- update 2026-08-06T21:58:58+05:30: docs: add detailed diagrams for tree recursion branches -->
 
 <!-- update 2026-08-06T22:29:45+05:30: feat: solve two sum using unordered_map for O(n) lookup -->
+
+<!-- update 2026-08-07T21:43:22+05:30: feat: detect linked list cycle using Floyd Tortoise and Hare algorithm -->
