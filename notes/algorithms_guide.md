@@ -137,3 +137,5 @@ Reference patterns for DFS, BFS, Sliding Window, and Dynamic Programming.
 <!-- update 2026-08-05T17:40:20+05:30: fix: address integer overflow edge cases in reverse integer -->
 
 <!-- update 2026-08-07T14:04:05+05:30: fix: handle edge case with single-node list in merge sorted lists -->
+
+<!-- update 2026-08-08T10:29:52+05:30: feat: solve valid parentheses with stack approach -->
