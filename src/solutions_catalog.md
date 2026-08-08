@@ -143,3 +143,5 @@
 <!-- update 2026-08-06T22:29:45+05:30: feat: solve two sum using unordered_map for O(n) lookup -->
 
 <!-- update 2026-08-07T21:43:22+05:30: feat: detect linked list cycle using Floyd Tortoise and Hare algorithm -->
+
+<!-- update 2026-08-08T15:34:32+05:30: refactor: optimize string prefix comparison in longest common prefix -->
