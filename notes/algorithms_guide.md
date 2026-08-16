@@ -141,3 +141,5 @@ Reference patterns for DFS, BFS, Sliding Window, and Dynamic Programming.
 <!-- update 2026-08-08T10:29:52+05:30: feat: solve valid parentheses with stack approach -->
 
 <!-- update 2026-08-10T16:56:00+05:30: perf: reduce space complexity to O(1) in Fibonacci transition -->
+
+<!-- update 2026-08-16T11:20:42+05:30: refactor: iteratively reverse linked list with three pointers -->
