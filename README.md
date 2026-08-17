@@ -138,3 +138,5 @@ Curated algorithmic problem solutions in modern C++ with in-depth time and space
 <!-- update 2026-08-08T10:34:29+05:30: feat: detect linked list cycle using Floyd Tortoise and Hare algorithm -->
 
 <!-- update 2026-08-09T10:06:15+05:30: refactor: optimize string prefix comparison in longest common prefix -->
+
+<!-- update 2026-08-17T23:12:22+05:30: feat: solve best time to buy and sell stock with single pass greedy -->
