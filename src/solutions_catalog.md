@@ -153,3 +153,5 @@
 <!-- update 2026-08-16T16:09:43+05:30: feat: implement recursive symmetric tree check -->
 
 <!-- update 2026-08-18T10:44:55+05:30: feat: solve best time to buy and sell stock with single pass greedy -->
+
+<!-- update 2026-08-18T17:12:57+05:30: test: add boundary test cases for empty arrays and single elements -->
