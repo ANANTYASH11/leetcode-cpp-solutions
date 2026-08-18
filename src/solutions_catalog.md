@@ -151,3 +151,5 @@
 <!-- update 2026-08-10T14:18:34+05:30: feat: solve binary tree inorder traversal using Morris Traversal -->
 
 <!-- update 2026-08-16T16:09:43+05:30: feat: implement recursive symmetric tree check -->
+
+<!-- update 2026-08-18T10:44:55+05:30: feat: solve best time to buy and sell stock with single pass greedy -->
