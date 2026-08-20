@@ -157,3 +157,5 @@
 <!-- update 2026-08-18T17:12:57+05:30: test: add boundary test cases for empty arrays and single elements -->
 
 <!-- update 2026-08-18T19:05:58+05:30: docs: add time and space complexity notes for palindrome number -->
+
+<!-- update 2026-08-20T23:24:39+05:30: docs: document Kadane algorithm intuition for maximum subarray -->
