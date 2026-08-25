@@ -161,3 +161,5 @@
 <!-- update 2026-08-20T23:24:39+05:30: docs: document Kadane algorithm intuition for maximum subarray -->
 
 <!-- update 2026-08-21T21:54:40+05:30: docs: update problem catalog and topic categorization in README -->
+
+<!-- update 2026-08-25T17:05:36+05:30: feat: solve valid anagram with frequency array -->
