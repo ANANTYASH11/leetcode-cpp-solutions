@@ -145,3 +145,5 @@ Reference patterns for DFS, BFS, Sliding Window, and Dynamic Programming.
 <!-- update 2026-08-16T11:20:42+05:30: refactor: iteratively reverse linked list with three pointers -->
 
 <!-- update 2026-08-25T12:53:29+05:30: refactor: iteratively reverse linked list with three pointers -->
+
+<!-- update 2026-08-26T20:30:56+05:30: refactor: optimize string prefix comparison in longest common prefix -->
