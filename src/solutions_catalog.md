@@ -163,3 +163,5 @@
 <!-- update 2026-08-21T21:54:40+05:30: docs: update problem catalog and topic categorization in README -->
 
 <!-- update 2026-08-25T17:05:36+05:30: feat: solve valid anagram with frequency array -->
+
+<!-- update 2026-08-28T22:28:45+05:30: perf: reduce space complexity to O(1) in Fibonacci transition -->
