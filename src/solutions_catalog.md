@@ -165,3 +165,5 @@
 <!-- update 2026-08-25T17:05:36+05:30: feat: solve valid anagram with frequency array -->
 
 <!-- update 2026-08-28T22:28:45+05:30: perf: reduce space complexity to O(1) in Fibonacci transition -->
+
+<!-- update 2026-08-30T20:34:31+05:30: docs: document Kadane algorithm intuition for maximum subarray -->
