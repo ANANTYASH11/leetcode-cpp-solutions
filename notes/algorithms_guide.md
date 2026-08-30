@@ -149,3 +149,5 @@ Reference patterns for DFS, BFS, Sliding Window, and Dynamic Programming.
 <!-- update 2026-08-26T20:30:56+05:30: refactor: optimize string prefix comparison in longest common prefix -->
 
 <!-- update 2026-08-27T11:32:22+05:30: docs: document Kadane algorithm intuition for maximum subarray -->
+
+<!-- update 2026-08-30T10:07:34+05:30: feat: solve valid anagram with frequency array -->
