@@ -144,3 +144,5 @@ Curated algorithmic problem solutions in modern C++ with in-depth time and space
 <!-- update 2026-08-22T11:41:24+05:30: refactor: optimize string prefix comparison in longest common prefix -->
 
 <!-- update 2026-08-27T12:59:09+05:30: feat: detect linked list cycle using Floyd Tortoise and Hare algorithm -->
+
+<!-- update 2026-09-03T12:11:07+05:30: feat: invert binary tree using postorder swap -->
