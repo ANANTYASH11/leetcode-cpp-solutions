@@ -151,3 +151,5 @@ Reference patterns for DFS, BFS, Sliding Window, and Dynamic Programming.
 <!-- update 2026-08-27T11:32:22+05:30: docs: document Kadane algorithm intuition for maximum subarray -->
 
 <!-- update 2026-08-30T10:07:34+05:30: feat: solve valid anagram with frequency array -->
+
+<!-- update 2026-09-04T14:11:23+05:30: feat: solve binary tree inorder traversal using Morris Traversal -->
