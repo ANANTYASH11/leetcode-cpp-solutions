@@ -167,3 +167,5 @@
 <!-- update 2026-08-28T22:28:45+05:30: perf: reduce space complexity to O(1) in Fibonacci transition -->
 
 <!-- update 2026-08-30T20:34:31+05:30: docs: document Kadane algorithm intuition for maximum subarray -->
+
+<!-- update 2026-09-07T17:15:21+05:30: fix: handle edge case with single-node list in merge sorted lists -->
