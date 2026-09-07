@@ -148,3 +148,5 @@ Curated algorithmic problem solutions in modern C++ with in-depth time and space
 <!-- update 2026-09-03T12:11:07+05:30: feat: invert binary tree using postorder swap -->
 
 <!-- update 2026-09-07T16:35:48+05:30: docs: add detailed diagrams for tree recursion branches -->
+
+<!-- update 2026-09-07T19:43:18+05:30: refactor: iteratively reverse linked list with three pointers -->
