@@ -169,3 +169,5 @@
 <!-- update 2026-08-30T20:34:31+05:30: docs: document Kadane algorithm intuition for maximum subarray -->
 
 <!-- update 2026-09-07T17:15:21+05:30: fix: handle edge case with single-node list in merge sorted lists -->
+
+<!-- update 2026-09-09T19:02:46+05:30: feat: solve valid parentheses with stack approach -->
