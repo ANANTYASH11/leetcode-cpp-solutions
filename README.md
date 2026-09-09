@@ -154,3 +154,5 @@ Curated algorithmic problem solutions in modern C++ with in-depth time and space
 <!-- update 2026-09-09T12:18:07+05:30: docs: add detailed diagrams for tree recursion branches -->
 
 <!-- update 2026-09-09T21:12:09+05:30: feat: solve binary tree inorder traversal using Morris Traversal -->
+
+<!-- update 2026-09-09T21:14:29+05:30: perf: reduce space complexity to O(1) in Fibonacci transition -->
