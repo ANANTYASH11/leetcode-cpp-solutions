@@ -152,3 +152,5 @@ Curated algorithmic problem solutions in modern C++ with in-depth time and space
 <!-- update 2026-09-07T19:43:18+05:30: refactor: iteratively reverse linked list with three pointers -->
 
 <!-- update 2026-09-09T12:18:07+05:30: docs: add detailed diagrams for tree recursion branches -->
+
+<!-- update 2026-09-09T21:12:09+05:30: feat: solve binary tree inorder traversal using Morris Traversal -->
