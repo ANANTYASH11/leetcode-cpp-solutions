@@ -156,3 +156,5 @@ Curated algorithmic problem solutions in modern C++ with in-depth time and space
 <!-- update 2026-09-09T21:12:09+05:30: feat: solve binary tree inorder traversal using Morris Traversal -->
 
 <!-- update 2026-09-09T21:14:29+05:30: perf: reduce space complexity to O(1) in Fibonacci transition -->
+
+<!-- update 2026-09-10T16:03:36+05:30: perf: reduce space complexity to O(1) in Fibonacci transition -->
