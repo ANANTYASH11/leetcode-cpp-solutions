@@ -155,3 +155,5 @@ Reference patterns for DFS, BFS, Sliding Window, and Dynamic Programming.
 <!-- update 2026-09-04T14:11:23+05:30: feat: solve binary tree inorder traversal using Morris Traversal -->
 
 <!-- update 2026-09-09T17:20:16+05:30: fix: handle edge case with single-node list in merge sorted lists -->
+
+<!-- update 2026-09-10T17:40:57+05:30: feat: implement binary search with lower bound predicate -->
