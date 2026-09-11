@@ -159,3 +159,5 @@ Reference patterns for DFS, BFS, Sliding Window, and Dynamic Programming.
 <!-- update 2026-09-10T17:40:57+05:30: feat: implement binary search with lower bound predicate -->
 
 <!-- update 2026-09-11T11:06:16+05:30: feat: solve two sum using unordered_map for O(n) lookup -->
+
+<!-- update 2026-09-11T15:27:54+05:30: refactor: clean up variable names and helper functions -->
