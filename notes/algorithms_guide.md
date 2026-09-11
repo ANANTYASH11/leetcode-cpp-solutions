@@ -161,3 +161,5 @@ Reference patterns for DFS, BFS, Sliding Window, and Dynamic Programming.
 <!-- update 2026-09-11T11:06:16+05:30: feat: solve two sum using unordered_map for O(n) lookup -->
 
 <!-- update 2026-09-11T15:27:54+05:30: refactor: clean up variable names and helper functions -->
+
+<!-- update 2026-09-11T17:56:39+05:30: docs: add time and space complexity notes for palindrome number -->
