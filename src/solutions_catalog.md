@@ -171,3 +171,5 @@
 <!-- update 2026-09-07T17:15:21+05:30: fix: handle edge case with single-node list in merge sorted lists -->
 
 <!-- update 2026-09-09T19:02:46+05:30: feat: solve valid parentheses with stack approach -->
+
+<!-- update 2026-09-11T15:43:43+05:30: refactor: iteratively reverse linked list with three pointers -->
