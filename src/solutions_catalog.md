@@ -173,3 +173,5 @@
 <!-- update 2026-09-09T19:02:46+05:30: feat: solve valid parentheses with stack approach -->
 
 <!-- update 2026-09-11T15:43:43+05:30: refactor: iteratively reverse linked list with three pointers -->
+
+<!-- update 2026-09-13T22:17:56+05:30: perf: optimize memory allocations by pre-reserving vector capacity -->
