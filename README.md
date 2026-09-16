@@ -164,3 +164,5 @@ Curated algorithmic problem solutions in modern C++ with in-depth time and space
 <!-- update 2026-09-11T16:19:35+05:30: docs: add time and space complexity notes for palindrome number -->
 
 <!-- update 2026-09-15T12:20:26+05:30: feat: implement recursive symmetric tree check -->
+
+<!-- update 2026-09-16T22:39:18+05:30: feat: invert binary tree using postorder swap -->
