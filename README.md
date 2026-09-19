@@ -168,3 +168,5 @@ Curated algorithmic problem solutions in modern C++ with in-depth time and space
 <!-- update 2026-09-16T22:39:18+05:30: feat: invert binary tree using postorder swap -->
 
 <!-- update 2026-09-17T21:42:15+05:30: refactor: clean up variable names and helper functions -->
+
+<!-- update 2026-09-19T20:13:09+05:30: feat: solve binary tree inorder traversal using Morris Traversal -->
