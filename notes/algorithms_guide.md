@@ -165,3 +165,5 @@ Reference patterns for DFS, BFS, Sliding Window, and Dynamic Programming.
 <!-- update 2026-09-11T17:56:39+05:30: docs: add time and space complexity notes for palindrome number -->
 
 <!-- update 2026-09-16T15:52:33+05:30: perf: reduce space complexity to O(1) in Fibonacci transition -->
+
+<!-- update 2026-09-21T16:57:57+05:30: perf: optimize memory allocations by pre-reserving vector capacity -->
