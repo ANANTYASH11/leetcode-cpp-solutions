@@ -179,3 +179,5 @@
 <!-- update 2026-09-22T11:31:25+05:30: feat: implement recursive symmetric tree check -->
 
 <!-- update 2026-09-22T14:00:04+05:30: docs: document Kadane algorithm intuition for maximum subarray -->
+
+<!-- update 2026-09-22T14:48:34+05:30: feat: solve maximum depth of binary tree with DFS traversal -->
