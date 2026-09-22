@@ -175,3 +175,5 @@
 <!-- update 2026-09-11T15:43:43+05:30: refactor: iteratively reverse linked list with three pointers -->
 
 <!-- update 2026-09-13T22:17:56+05:30: perf: optimize memory allocations by pre-reserving vector capacity -->
+
+<!-- update 2026-09-22T11:31:25+05:30: feat: implement recursive symmetric tree check -->
