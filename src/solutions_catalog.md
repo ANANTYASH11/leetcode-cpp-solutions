@@ -177,3 +177,5 @@
 <!-- update 2026-09-13T22:17:56+05:30: perf: optimize memory allocations by pre-reserving vector capacity -->
 
 <!-- update 2026-09-22T11:31:25+05:30: feat: implement recursive symmetric tree check -->
+
+<!-- update 2026-09-22T14:00:04+05:30: docs: document Kadane algorithm intuition for maximum subarray -->
