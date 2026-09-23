@@ -167,3 +167,5 @@ Reference patterns for DFS, BFS, Sliding Window, and Dynamic Programming.
 <!-- update 2026-09-16T15:52:33+05:30: perf: reduce space complexity to O(1) in Fibonacci transition -->
 
 <!-- update 2026-09-21T16:57:57+05:30: perf: optimize memory allocations by pre-reserving vector capacity -->
+
+<!-- update 2026-09-23T23:44:58+05:30: docs: update problem catalog and topic categorization in README -->
