@@ -1,0 +1,20 @@
+# C++ Compiled Executables & Object files
+*.exe
+*.o
+*.obj
+*.out
+*.dll
+*.so
+*.dylib
+*.pdb
+
+# Editor & IDE configs
+.vscode/
+.idea/
+*.suo
+*.user
+*~
+.DS_Store
+
+# Temporary files
+*.tmp
