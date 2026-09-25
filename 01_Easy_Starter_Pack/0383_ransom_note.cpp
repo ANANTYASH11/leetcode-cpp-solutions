@@ -1,6 +1,7 @@
 // Problem: 383. Ransom Note
 // Link: https://leetcode.com/problems/ransom-note/
 // Difficulty: Easy
+// Author: ANANTYASH11
 // Time Complexity: O(m + n)
 // Space Complexity: O(1)
 
