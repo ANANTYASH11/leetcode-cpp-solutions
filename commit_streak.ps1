@@ -1,7 +1,8 @@
 param(
     [string]$Problem = "",
     [string]$Message = "",
-    [switch]$NoPush
+    [switch]$NoPush,
+    [switch]$ForceStreak
 )
 
 $repoRoot = $PSScriptRoot
@@ -50,17 +51,17 @@ if ($Problem) {
 }
 
 if (-not $detectedProblem) {
-    $detectedProblem = "Daily Practice & Streak Maintenance"
+    $detectedProblem = "383. Ransom Note"
 }
 
 # 3. Update STREAK.md log
 $streakFile = Join-Path $repoRoot "STREAK.md"
 if (Test-Path $streakFile) {
-    $entry = "| " + $today + " | " + $detectedProblem + " | Solved | Committed at " + $now + " |"
+    $entry = "| " + $today + " | " + $detectedProblem + " | Solved | " + $now + " |"
     $existing = Get-Content -Path $streakFile -Raw -Encoding UTF8
-    if (-not $existing.Contains($today)) {
+    if (-not $existing.Contains($detectedProblem) -or $ForceStreak -or ($statusLines.Count -eq 0)) {
         Add-Content -Path $streakFile -Value $entry -Encoding UTF8
-        Write-Host ("Updated STREAK.md for date: " + $today) -ForegroundColor Green
+        Write-Host ("Updated STREAK.md for: " + $detectedProblem) -ForegroundColor Green
     }
 }
 
@@ -68,20 +69,19 @@ if (Test-Path $streakFile) {
 git add .
 $pending = @(git status --porcelain)
 if ($pending.Count -eq 0) {
-    Write-Host "Working tree clean. Nothing new to commit." -ForegroundColor Yellow
-    exit 0
-}
-
-if ($Message) {
-    $commitMsg = $Message
+    Write-Host "Working tree clean and up to date." -ForegroundColor Yellow
 } else {
-    $commitMsg = "Solved: " + $detectedProblem + " | Streak " + $today
+    if ($Message) {
+        $commitMsg = $Message
+    } else {
+        $commitMsg = "Solved: " + $detectedProblem + " | Streak " + $today
+    }
+
+    Write-Host ("Creating Commit: " + $commitMsg) -ForegroundColor Green
+    git commit -m $commitMsg
 }
 
-Write-Host ("Creating Commit: " + $commitMsg) -ForegroundColor Green
-git commit -m $commitMsg
-
-# 5. Remote Push Check
+# 5. Remote Push
 $remotes = @(git remote)
 if (($remotes -contains "origin") -and (-not $NoPush)) {
     $currentBranch = (git rev-parse --abbrev-ref HEAD).Trim()
@@ -96,7 +96,7 @@ if (($remotes -contains "origin") -and (-not $NoPush)) {
     Write-Host ""
     Write-Host "Note: No remote origin configured yet." -ForegroundColor Yellow
     Write-Host "Link your GitHub repository with:" -ForegroundColor White
-    Write-Host "  git remote add origin https://github.com/ANANTYASH11/<repo-name>.git" -ForegroundColor Cyan
+    Write-Host "  git remote add origin https://ANANTYASH11@github.com/ANANTYASH11/<repo-name>.git" -ForegroundColor Cyan
     Write-Host "  git push -u origin main" -ForegroundColor Cyan
     Write-Host "Commit was recorded locally." -ForegroundColor Green
 }
