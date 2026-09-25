@@ -3,6 +3,8 @@
 Target Account: [ANANTYASH11](https://leetcode.com/u/ANANTYASH11/)  
 Language: **C++ (C++17 / C++20)**
 
+Curated algorithmic problem solutions in modern C++ with in-depth time and space complexity analysis by **Anant Yash**.
+
 ---
 
 ## 🚀 Quick-Start Batch (First 10 Problems to Boost Count)
@@ -21,3 +23,10 @@ Copy and paste these directly into LeetCode to get instant **Accepted** verdicts
 | 27 | Remove Element | Easy | Two Pointers | [`0027_remove_element.cpp`](./01_Easy_Starter_Pack/0027_remove_element.cpp) | [Open Problem](https://leetcode.com/problems/remove-element/) |
 | 28 | Find Index of First Occurrence | Easy | Two Pointers / String | [`0028_find_first_occurrence.cpp`](./01_Easy_Starter_Pack/0028_find_first_occurrence.cpp) | [Open Problem](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
 | 35 | Search Insert Position | Easy | Binary Search | [`0035_search_insert_position.cpp`](./01_Easy_Starter_Pack/0035_search_insert_position.cpp) | [Open Problem](https://leetcode.com/problems/search-insert-position/) |
+
+## 📚 Topics Covered
+- **Arrays & Hashing**: Two Sum, Contains Duplicate, Valid Anagram
+- **Two Pointers & Sliding Window**: Valid Palindrome, Two Sum II
+- **Trees & Binary Search Trees**: Max Depth, Invert Tree, Symmetric Tree, Same Tree
+- **Dynamic Programming**: Climbing Stairs, Best Time to Buy and Sell Stock
+- **Linked Lists**: Reverse Linked List, Detect Cycle, Merge Sorted Lists
