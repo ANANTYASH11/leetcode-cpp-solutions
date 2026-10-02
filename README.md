@@ -7,10 +7,28 @@ Curated algorithmic problem solutions in modern C++ with in-depth time and space
 
 ---
 
+## 🚀 Complete DSA Preparation Roadmap (From Zero to OA Ready)
+A targeted, high-yield curriculum of **30 Algorithmic Patterns & 180 Problems** tailored for Online Assessments (OA) and tier-1 tech interviews. 100% solved with optimal C++ implementations and complexity breakdowns:
+👉 **[View Full 30-Pattern OA Roadmap & Tracker (ROADMAP.md)](./ROADMAP.md)**
+
+---
+
 ## 🎯 120-Question Master Syllabus & Tracker
 A complete curriculum of 120 high-frequency coding interview problems (Blind 75 + NeetCode 150 + Top Interview Classics), categorized into 14 essential algorithmic patterns with difficulty, target complexities, and progress tracking:
 👉 **[View Full 120-Problem Syllabus & Tracker (SYLLABUS.md)](./SYLLABUS.md)**  
-👉 **[Old vs. New Questions Breakdown Guide (BATCH_BREAKDOWN.md)](./BATCH_BREAKDOWN.md)**
+👉 **[Question Breakdown Guide across Packs (BATCH_BREAKDOWN.md)](./BATCH_BREAKDOWN.md)**
+
+---
+
+## 📂 Repository Organization (247 Total Problems)
+
+| Directory | Count | Description |
+|-----------|:-----:|-------------|
+| [`01_Easy_Starter_Pack/`](./01_Easy_Starter_Pack/) | 54 | Essential easy interview starters for quick confidence & streak building |
+| [`02_Medium_Pack/`](./02_Medium_Pack/) | 8 | Core medium problems focusing on linked lists and fast/slow pointers |
+| [`03_New_Questions/`](./03_New_Questions/) | 90 | Master interview expansion covering DP, Graphs, Trees, Heaps, and Backtracking |
+| [`04_OA_Roadmap_Pack/`](./04_OA_Roadmap_Pack/) | 95 | Targeted OA & competition-ready problems across all 30 algorithmic roadmap patterns |
+| [`solutions/`](./solutions/) | **247** | **Unified flat collection** containing every single solved C++ problem |
 
 ---
 
@@ -47,22 +65,21 @@ Copy and paste these directly into LeetCode to get instant **Accepted** verdicts
 All 90 new problems covering Dynamic Programming, Graphs, Backtracking, Trees, Stacks, Sliding Window, Heaps, and Tries are stored in their own dedicated directory:
 👉 **[`./03_New_Questions/`](./03_New_Questions/)**
 
-See [**`BATCH_BREAKDOWN.md`**](./BATCH_BREAKDOWN.md) for the exact breakdown of Old vs. New questions.
+## 🎯 OA Roadmap Pack (95 Questions)
+The 95 problems completing the full **30-pattern OA Roadmap** (Difference Arrays, Monotonic Queues, Advanced Binary Search, Shortest Paths, MST, String DP, and more):
+👉 **[`./04_OA_Roadmap_Pack/`](./04_OA_Roadmap_Pack/)**
 
 ---
 
-## 📚 Topics & Algorithms Covered (150+ Total Problems)
-- **Arrays & Hashing**: Two Sum, Contains Duplicate, Valid Anagram, Group Anagrams, Top K Frequent, Product of Array Except Self, Valid Sudoku, Longest Consecutive Sequence, Sort Colors, Subarray Sum Equals K.
-- **Two Pointers & Sliding Window**: Valid Palindrome, Two Sum II, 3Sum, Container With Most Water, Trapping Rain Water, Longest Mountain, Longest Substring Without Repeating Characters, Repeating Character Replacement, Permutation in String, Min Window Substring, Sliding Window Maximum.
-- **Stack & Monotonic Stack**: Valid Parentheses, Min Stack, Evaluate RPN, Generate Parentheses, Daily Temperatures, Car Fleet, Largest Rectangle in Histogram, Next Greater Element II, Remove K Digits, Decode String.
-- **Binary Search**: Binary Search, Search Insert Position, Sqrt(x), Search 2D Matrix, Koko Eating Bananas, Search Rotated Sorted Array, Find Min in Rotated Array, Median of Two Sorted Arrays.
-- **Linked Lists**: Middle of List, Detect Cycle, Cycle Entry, Delete Middle, Reorder List, Twin Sum, Rotate List, Copy List with Random Pointer, Merge k Sorted Lists.
-- **Trees & Binary Search Trees**: Max Depth, Invert Tree, Symmetric Tree, Same Tree, Level Order Traversal, Right Side View, LCA of BST, LCA of Binary Tree, Kth Smallest in BST, Construct Tree from Preorder/Inorder, Max Path Sum.
-- **Tries (Prefix Trees)**: Implement Trie, Design Add & Search Words, Word Search II.
-- **Heap / Priority Queue**: Kth Largest in Stream, Kth Largest in Array, K Closest Points, Task Scheduler, Design Twitter, Find Median from Data Stream.
-- **Backtracking**: Subsets I & II, Combination Sum I & II, Permutations, Word Search, Palindrome Partitioning, N-Queens.
-- **Graphs (BFS & DFS)**: Number of Islands, Clone Graph, Max Area of Island, Pacific Atlantic Water Flow, Surrounded Regions, Rotting Oranges, Course Schedule I & II, Redundant Connection, Word Ladder.
-- **Dynamic Programming (1D & 2D)**: Climbing Stairs, Min Cost Climbing Stairs, House Robber I & II, Longest Palindromic Substring, Coin Change, Maximum Product Subarray, Longest Increasing Subsequence, Partition Equal Subset Sum, Unique Paths, Longest Common Subsequence, Edit Distance.
-- **Greedy, Intervals & Matrix**: Maximum Subarray (Kadane), Jump Game I & II, Merge Intervals, Insert Interval, Non-overlapping Intervals, Spiral Matrix, Set Matrix Zeroes, Rotate Image.
-- **Bit Manipulation & Math**: Single Number, Number of 1 Bits, Counting Bits, Reverse Bits, Missing Number, Reverse Integer, Roman to Integer, Excel Sheet Columns.
+## 📚 Topics & Algorithms Covered (247 Total Problems)
+- **Sliding Window & Two Pointers**: Longest Substring Without Repeating, Min Window Substring, 3Sum, 3Sum Closest, 4Sum, Trapping Rain Water, Fruit Into Baskets.
+- **Prefix Sum & Difference Arrays**: Range Sum Query, Subarray Sums Divisible by K, Continuous Subarray Sum, Range Addition, Car Pooling, Corporate Flight Bookings, Shifting Letters II.
+- **Stack, Monotonic Stack & Deque**: Daily Temperatures, Largest Rectangle in Histogram, Maximal Rectangle, Online Stock Span, Sliding Window Maximum, Constrained Subsequence Sum, Jump Game VI.
+- **Binary Search & Search on Answer**: Rotated Arrays, Search Insert, Find Peak, Koko Eating Bananas, Capacity To Ship, Split Array Largest Sum, Minimize Gas Station Distance.
+- **Linked Lists**: Cycle Detection, In-place Reversal, Reorder List, Swap in Pairs, Reverse Nodes in k-Group, Copy with Random Pointer.
+- **Trees & Binary Search Trees**: Zigzag Level Order, Diameter, Max Path Sum, Validate BST, Recover BST, Delete Node in BST, Populating Next Right Pointers.
+- **Backtracking**: Permutations I & II, Combinations, Subsets I & II, Combination Sum, Word Search, N-Queens I & II.
+- **Graphs, Topo Sort, Shortest Path & MST**: Number of Islands, Rotting Oranges, Safe States, Course Schedule I-IV, Dijkstra (Network Delay, Min Effort, Max Prob), Kruskal/Prim MST, Critical Edges.
+- **Dynamic Programming (1D, 2D, Grid, Sequence & Knapsack)**: Coin Change I & II, House Robber I & II, LIS, Maximal Square, Target Sum, Profitable Schemes, Edit Distance, Distinct Subsequences, Interleaving String.
+- **Trie & Bit Manipulation**: Prefix Trees, Word Search II, Map Sum, Suggestions System, Single Number I & II, Counting Bits, Reverse Bits.
 
