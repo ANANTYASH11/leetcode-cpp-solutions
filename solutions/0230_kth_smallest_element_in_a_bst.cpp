@@ -34,4 +34,4 @@ private:
 
         inorder(node->right, k, count, result);
     }
-};\n
+};

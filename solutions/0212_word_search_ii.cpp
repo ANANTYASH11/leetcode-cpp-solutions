@@ -66,4 +66,4 @@ private:
         dfs(board, r, c - 1, nextNode, result);
         board[r][c] = originalChar; // Backtrack
     }
-};\n
+};

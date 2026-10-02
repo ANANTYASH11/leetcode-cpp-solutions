@@ -24,4 +24,4 @@ public:
         }
         return dp[target];
     }
-};\n
+};

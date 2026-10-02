@@ -36,4 +36,4 @@ public:
     int getMin() {
         return minStack.top();
     }
-};\n
+};

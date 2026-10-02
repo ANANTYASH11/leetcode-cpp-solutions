@@ -22,4 +22,4 @@ public:
         }
         return tails.size();
     }
-};\n
+};

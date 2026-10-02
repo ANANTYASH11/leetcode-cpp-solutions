@@ -52,4 +52,4 @@ public:
         delete dummy;
         return result;
     }
-};\n
+};

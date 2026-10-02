@@ -34,4 +34,4 @@ private:
         dfs(node->right, depth + 1, view);
         dfs(node->left, depth + 1, view);
     }
-};\n
+};

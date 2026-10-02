@@ -27,4 +27,4 @@ public:
 
         return tasks.size() + idles;
     }
-};\n
+};

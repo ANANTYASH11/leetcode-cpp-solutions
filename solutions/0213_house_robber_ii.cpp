@@ -27,4 +27,4 @@ private:
         }
         return prev1;
     }
-};\n
+};

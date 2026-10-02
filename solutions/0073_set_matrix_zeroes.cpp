@@ -32,4 +32,4 @@ public:
             if (firstColZero) matrix[r][0] = 0;
         }
     }
-};\n
+};

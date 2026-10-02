@@ -37,4 +37,4 @@ private:
         // Return maximum branch gain for parent
         return node->val + std::max(leftGain, rightGain);
     }
-};\n
+};

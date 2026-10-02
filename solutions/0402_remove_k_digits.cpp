@@ -35,4 +35,4 @@ public:
         std::string result = st.substr(start);
         return result.empty() ? "0" : result;
     }
-};\n
+};

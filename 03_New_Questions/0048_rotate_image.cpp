@@ -24,4 +24,4 @@ public:
             std::reverse(matrix[i].begin(), matrix[i].end());
         }
     }
-};\n
+};

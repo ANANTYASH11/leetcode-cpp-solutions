@@ -38,4 +38,4 @@ private:
         root->right = build(preorder, inMap, preIndex, inIndex + 1, inEnd);
         return root;
     }
-};\n
+};

@@ -53,4 +53,4 @@ public:
 
         return fresh == 0 ? minutes : -1;
     }
-};\n
+};

@@ -30,4 +30,4 @@ public:
         }
         return result;
     }
-};\n
+};

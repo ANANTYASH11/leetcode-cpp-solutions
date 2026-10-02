@@ -24,4 +24,4 @@ public:
         }
         return answer;
     }
-};\n
+};

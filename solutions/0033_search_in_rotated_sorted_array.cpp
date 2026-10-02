@@ -33,4 +33,4 @@ public:
         }
         return -1;
     }
-};\n
+};

@@ -28,4 +28,4 @@ private:
             std::swap(nums[start], nums[i]); // Backtrack
         }
     }
-};\n
+};

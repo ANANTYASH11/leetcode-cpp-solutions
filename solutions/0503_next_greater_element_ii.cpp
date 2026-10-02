@@ -27,4 +27,4 @@ public:
         }
         return result;
     }
-};\n
+};

@@ -61,4 +61,4 @@ public:
     void unfollow(int followerId, int followeeId) {
         following[followerId].erase(followeeId);
     }
-};\n
+};

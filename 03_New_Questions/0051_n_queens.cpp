@@ -44,4 +44,4 @@ private:
             cols[col] = diag1[d1] = diag2[d2] = false;
         }
     }
-};\n
+};

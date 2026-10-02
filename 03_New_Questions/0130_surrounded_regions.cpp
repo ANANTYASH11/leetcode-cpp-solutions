@@ -42,4 +42,4 @@ private:
         dfs(board, r, c + 1);
         dfs(board, r, c - 1);
     }
-};\n
+};

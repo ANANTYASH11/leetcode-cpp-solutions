@@ -25,4 +25,4 @@ public:
         }
         return minLen == INT_MAX ? 0 : minLen;
     }
-};\n
+};

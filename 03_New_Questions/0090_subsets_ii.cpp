@@ -30,4 +30,4 @@ private:
             current.pop_back();
         }
     }
-};\n
+};

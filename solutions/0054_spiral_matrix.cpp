@@ -36,4 +36,4 @@ public:
         }
         return result;
     }
-};\n
+};

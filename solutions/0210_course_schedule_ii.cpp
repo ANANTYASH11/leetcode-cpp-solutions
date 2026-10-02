@@ -38,4 +38,4 @@ public:
 
         return order.size() == numCourses ? order : std::vector<int>();
     }
-};\n
+};

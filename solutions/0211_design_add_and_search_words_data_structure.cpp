@@ -61,4 +61,4 @@ private:
         }
         return false;
     }
-};\n
+};

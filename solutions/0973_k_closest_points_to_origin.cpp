@@ -32,4 +32,4 @@ public:
         }
         return result;
     }
-};\n
+};

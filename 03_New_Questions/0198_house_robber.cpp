@@ -20,4 +20,4 @@ public:
         }
         return prev1;
     }
-};\n
+};

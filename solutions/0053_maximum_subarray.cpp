@@ -19,4 +19,4 @@ public:
         }
         return maxSum;
     }
-};\n
+};

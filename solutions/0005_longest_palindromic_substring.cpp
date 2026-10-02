@@ -32,4 +32,4 @@ private:
             ++right;
         }
     }
-};\n
+};

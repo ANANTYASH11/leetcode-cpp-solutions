@@ -20,4 +20,4 @@ public:
         }
         return std::min(prev1, prev2);
     }
-};\n
+};

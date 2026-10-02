@@ -25,4 +25,4 @@ public:
         }
         return result;
     }
-};\n
+};

@@ -36,4 +36,4 @@ private:
         }
         return clone;
     }
-};\n
+};

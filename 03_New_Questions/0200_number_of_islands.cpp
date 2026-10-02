@@ -36,4 +36,4 @@ private:
         dfs(grid, r, c + 1);
         dfs(grid, r, c - 1);
     }
-};\n
+};

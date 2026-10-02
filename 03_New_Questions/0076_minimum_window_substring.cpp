@@ -52,4 +52,4 @@ public:
 
         return minLen == INT_MAX ? "" : s.substr(startIdx, minLen);
     }
-};\n
+};

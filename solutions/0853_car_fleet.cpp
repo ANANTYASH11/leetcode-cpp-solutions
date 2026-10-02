@@ -33,4 +33,4 @@ public:
         }
         return fleets;
     }
-};\n
+};

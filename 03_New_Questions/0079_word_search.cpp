@@ -39,4 +39,4 @@ private:
         board[r][c] = temp; // Backtrack
         return found;
     }
-};\n
+};

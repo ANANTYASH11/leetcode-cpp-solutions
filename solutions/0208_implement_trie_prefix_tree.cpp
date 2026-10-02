@@ -59,4 +59,4 @@ private:
         }
         return curr;
     }
-};\n
+};

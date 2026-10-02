@@ -48,4 +48,4 @@ private:
         dfs(heights, r, c + 1, ocean, heights[r][c]);
         dfs(heights, r, c - 1, ocean, heights[r][c]);
     }
-};\n
+};
