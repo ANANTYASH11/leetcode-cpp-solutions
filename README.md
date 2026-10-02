@@ -31,10 +31,7 @@ Copy and paste these directly into LeetCode to get instant **Accepted** verdicts
 | 28 | Find Index of First Occurrence | Easy | Two Pointers / String | [`0028_find_first_occurrence.cpp`](./01_Easy_Starter_Pack/0028_find_first_occurrence.cpp) | [Open Problem](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
 | 35 | Search Insert Position | Easy | Binary Search | [`0035_search_insert_position.cpp`](./01_Easy_Starter_Pack/0035_search_insert_position.cpp) | [Open Problem](https://leetcode.com/problems/search-insert-position/) |
 
-## ⚡ Medium & Advanced Interview Pack (98 Comprehensive Solutions)
-All solutions are written in modern C++ with optimal complexity, detailed comments, and verified algorithms.
-See [**`SYLLABUS.md`**](./SYLLABUS.md) for the complete index across all 152 problems.
-
+## ⚡ Medium Pack: Linked Lists & Fast/Slow Pointers (8 Original Problems)
 | # | Problem | Difficulty | Topic | Solution File | LeetCode Link |
 |---|---------|------------|-------|---------------|---------------|
 | 2095 | Delete the Middle Node of a Linked List | Medium | Linked List / Fast & Slow | [`2095_delete_the_middle_node_of_a_linked_list.cpp`](./02_Medium_Pack/2095_delete_the_middle_node_of_a_linked_list.cpp) | [Open Problem](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) |
@@ -45,6 +42,14 @@ See [**`SYLLABUS.md`**](./SYLLABUS.md) for the complete index across all 152 pro
 | 19 | Remove Nth Node From End of List | Medium | Linked List / Two Pointers | [`0019_remove_nth_node_from_end_of_list.cpp`](./02_Medium_Pack/0019_remove_nth_node_from_end_of_list.cpp) | [Open Problem](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |
 | 61 | Rotate List | Medium | Linked List / Two Pointers | [`0061_rotate_list.cpp`](./02_Medium_Pack/0061_rotate_list.cpp) | [Open Problem](https://leetcode.com/problems/rotate-list/) |
 | 2 | Add Two Numbers | Medium | Linked List / Math | [`0002_add_two_numbers.cpp`](./02_Medium_Pack/0002_add_two_numbers.cpp) | [Open Problem](https://leetcode.com/problems/add-two-numbers/) |
+
+## 🌟 New Questions (100+ Expansion Pack — 90 Problems)
+All 90 new problems covering Dynamic Programming, Graphs, Backtracking, Trees, Stacks, Sliding Window, Heaps, and Tries are stored in their own dedicated directory:
+👉 **[`./03_New_Questions/`](./03_New_Questions/)**
+
+See [**`BATCH_BREAKDOWN.md`**](./BATCH_BREAKDOWN.md) for the exact breakdown of Old vs. New questions.
+
+---
 
 ## 📚 Topics & Algorithms Covered (150+ Total Problems)
 - **Arrays & Hashing**: Two Sum, Contains Duplicate, Valid Anagram, Group Anagrams, Top K Frequent, Product of Array Except Self, Valid Sudoku, Longest Consecutive Sequence, Sort Colors, Subarray Sum Equals K.

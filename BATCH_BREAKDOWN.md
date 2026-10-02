@@ -8,8 +8,8 @@ This guide explains which problems were part of the **Original Repository (62 pr
 
 | Category | Count | Primary Location | Description |
 |----------|:-----:|------------------|-------------|
-| **Original Questions** | **62** | `01_Easy_Starter_Pack/` + First 8 in `02_Medium_Pack/` | The starter batch of 54 Easies and 8 Linked List Fast/Slow Pointer Mediums |
-| **New Questions (100+ Batch)** | **90** | `02_Medium_Pack/` | High-frequency Medium & Hard interview classics (Trees, DP, Graphs, Stacks, Sliding Window, Tries, Heaps, Backtracking) |
+| **Original Questions** | **62** | `01_Easy_Starter_Pack/` + First 8 in `03_New_Questions/` | The starter batch of 54 Easies and 8 Linked List Fast/Slow Pointer Mediums |
+| **New Questions (100+ Batch)** | **90** | `03_New_Questions/` | High-frequency Medium & Hard interview classics (Trees, DP, Graphs, Stacks, Sliding Window, Tries, Heaps, Backtracking) |
 | **Unified Collection** | **152** | `solutions/` | All 152 questions synchronized in one flat directory |
 
 ---
@@ -76,7 +76,7 @@ These were in the repository originally before the expansion.
 - **876.** Middle of the Linked List (`0876_middle_of_the_linked_list.cpp`)
 
 ### Starter Linked List Mediums (8 Problems)
-*Located in [`02_Medium_Pack/`](./02_Medium_Pack/):*
+*Located in [`03_New_Questions/`](./02_Medium_Pack/):*
 - **2.** Add Two Numbers (`0002_add_two_numbers.cpp`)
 - **19.** Remove Nth Node From End of List (`0019_remove_nth_node_from_end_of_list.cpp`)
 - **61.** Rotate List (`0061_rotate_list.cpp`)
@@ -91,7 +91,7 @@ These were in the repository originally before the expansion.
 ## 🆕 2. The New Questions (90 Problems)
 
 These were newly created and added to satisfy the **100+ master interview syllabus**.  
-*All 90 files below were added to [`02_Medium_Pack/`](./02_Medium_Pack/) and mirrored to [`solutions/`](./solutions/):*
+*All 90 files below are located in dedicated directory [`03_New_Questions/`](./03_New_Questions/) and mirrored in [`solutions/`](./solutions/):*
 
 ### Arrays & Hashing
 - **36.** Valid Sudoku (`0036_valid_sudoku.cpp`)
