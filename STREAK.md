@@ -14,3 +14,4 @@
 | 2026-09-26 | 383. Ransom Note | Solved | 2026-09-26 00:52:04 |
 | 2026-10-02 | 2095. Delete the Middle Node of a Linked List | Solved | 2026-10-02 05:58:14 |
 | 2026-10-03 | 100+ Master Interview Pack | Solved | 2026-10-03 02:15:37 |
+| 2026-10-03 | 1. Two Sum | Solved | 2026-10-03 02:19:24 |
