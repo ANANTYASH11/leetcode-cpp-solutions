@@ -7,6 +7,12 @@ Curated algorithmic problem solutions in modern C++ with in-depth time and space
 
 ---
 
+## 🎯 120-Question Master Syllabus & Tracker
+A complete curriculum of 120 high-frequency coding interview problems (Blind 75 + NeetCode 150 + Top Interview Classics), categorized into 14 essential algorithmic patterns with difficulty, target complexities, and progress tracking:
+👉 **[View Full 120-Problem Syllabus & Tracker (SYLLABUS.md)](./SYLLABUS.md)**
+
+---
+
 ## 🚀 Quick-Start Batch (First 10 Problems to Boost Count)
 
 Copy and paste these directly into LeetCode to get instant **Accepted** verdicts:
@@ -24,7 +30,9 @@ Copy and paste these directly into LeetCode to get instant **Accepted** verdicts
 | 28 | Find Index of First Occurrence | Easy | Two Pointers / String | [`0028_find_first_occurrence.cpp`](./01_Easy_Starter_Pack/0028_find_first_occurrence.cpp) | [Open Problem](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
 | 35 | Search Insert Position | Easy | Binary Search | [`0035_search_insert_position.cpp`](./01_Easy_Starter_Pack/0035_search_insert_position.cpp) | [Open Problem](https://leetcode.com/problems/search-insert-position/) |
 
-## ⚡ Medium Pack: Linked Lists & Fast/Slow Pointers
+## ⚡ Medium & Advanced Interview Pack (98 Comprehensive Solutions)
+All solutions are written in modern C++ with optimal complexity, detailed comments, and verified algorithms.
+See [**`SYLLABUS.md`**](./SYLLABUS.md) for the complete index across all 152 problems.
 
 | # | Problem | Difficulty | Topic | Solution File | LeetCode Link |
 |---|---------|------------|-------|---------------|---------------|
@@ -37,10 +45,18 @@ Copy and paste these directly into LeetCode to get instant **Accepted** verdicts
 | 61 | Rotate List | Medium | Linked List / Two Pointers | [`0061_rotate_list.cpp`](./02_Medium_Pack/0061_rotate_list.cpp) | [Open Problem](https://leetcode.com/problems/rotate-list/) |
 | 2 | Add Two Numbers | Medium | Linked List / Math | [`0002_add_two_numbers.cpp`](./02_Medium_Pack/0002_add_two_numbers.cpp) | [Open Problem](https://leetcode.com/problems/add-two-numbers/) |
 
-## 📚 Topics Covered
-- **Arrays & Hashing**: Two Sum, Contains Duplicate, Valid Anagram
-- **Two Pointers & Sliding Window**: Valid Palindrome, Two Sum II
-- **Trees & Binary Search Trees**: Max Depth, Invert Tree, Symmetric Tree, Same Tree
-- **Dynamic Programming**: Climbing Stairs, Best Time to Buy and Sell Stock
-- **Linked Lists & Fast/Slow Pointers**: Middle of List, Detect Cycle, Cycle Entry, Delete Middle, Reorder List, Twin Sum, Rotate List
+## 📚 Topics & Algorithms Covered (150+ Total Problems)
+- **Arrays & Hashing**: Two Sum, Contains Duplicate, Valid Anagram, Group Anagrams, Top K Frequent, Product of Array Except Self, Valid Sudoku, Longest Consecutive Sequence, Sort Colors, Subarray Sum Equals K.
+- **Two Pointers & Sliding Window**: Valid Palindrome, Two Sum II, 3Sum, Container With Most Water, Trapping Rain Water, Longest Mountain, Longest Substring Without Repeating Characters, Repeating Character Replacement, Permutation in String, Min Window Substring, Sliding Window Maximum.
+- **Stack & Monotonic Stack**: Valid Parentheses, Min Stack, Evaluate RPN, Generate Parentheses, Daily Temperatures, Car Fleet, Largest Rectangle in Histogram, Next Greater Element II, Remove K Digits, Decode String.
+- **Binary Search**: Binary Search, Search Insert Position, Sqrt(x), Search 2D Matrix, Koko Eating Bananas, Search Rotated Sorted Array, Find Min in Rotated Array, Median of Two Sorted Arrays.
+- **Linked Lists**: Middle of List, Detect Cycle, Cycle Entry, Delete Middle, Reorder List, Twin Sum, Rotate List, Copy List with Random Pointer, Merge k Sorted Lists.
+- **Trees & Binary Search Trees**: Max Depth, Invert Tree, Symmetric Tree, Same Tree, Level Order Traversal, Right Side View, LCA of BST, LCA of Binary Tree, Kth Smallest in BST, Construct Tree from Preorder/Inorder, Max Path Sum.
+- **Tries (Prefix Trees)**: Implement Trie, Design Add & Search Words, Word Search II.
+- **Heap / Priority Queue**: Kth Largest in Stream, Kth Largest in Array, K Closest Points, Task Scheduler, Design Twitter, Find Median from Data Stream.
+- **Backtracking**: Subsets I & II, Combination Sum I & II, Permutations, Word Search, Palindrome Partitioning, N-Queens.
+- **Graphs (BFS & DFS)**: Number of Islands, Clone Graph, Max Area of Island, Pacific Atlantic Water Flow, Surrounded Regions, Rotting Oranges, Course Schedule I & II, Redundant Connection, Word Ladder.
+- **Dynamic Programming (1D & 2D)**: Climbing Stairs, Min Cost Climbing Stairs, House Robber I & II, Longest Palindromic Substring, Coin Change, Maximum Product Subarray, Longest Increasing Subsequence, Partition Equal Subset Sum, Unique Paths, Longest Common Subsequence, Edit Distance.
+- **Greedy, Intervals & Matrix**: Maximum Subarray (Kadane), Jump Game I & II, Merge Intervals, Insert Interval, Non-overlapping Intervals, Spiral Matrix, Set Matrix Zeroes, Rotate Image.
+- **Bit Manipulation & Math**: Single Number, Number of 1 Bits, Counting Bits, Reverse Bits, Missing Number, Reverse Integer, Roman to Integer, Excel Sheet Columns.
 

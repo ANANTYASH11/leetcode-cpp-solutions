@@ -1,0 +1,31 @@
+// Problem: 150. Evaluate Reverse Polish Notation
+// Link: https://leetcode.com/problems/evaluate-reverse-polish-notation/
+// Difficulty: Medium
+// Time Complexity: O(n)
+// Space Complexity: O(n)
+
+#include <vector>
+#include <string>
+#include <stack>
+
+class Solution {
+public:
+    int evalRPN(std::vector<std::string>& tokens) {
+        std::stack<int> st;
+
+        for (const std::string& token : tokens) {
+            if (token == "+" || token == "-" || token == "*" || token == "/") {
+                int b = st.top(); st.pop();
+                int a = st.top(); st.pop();
+
+                if (token == "+") st.push(a + b);
+                else if (token == "-") st.push(a - b);
+                else if (token == "*") st.push(a * b);
+                else if (token == "/") st.push(a / b);
+            } else {
+                st.push(std::stoi(token));
+            }
+        }
+        return st.top();
+    }
+};\n
