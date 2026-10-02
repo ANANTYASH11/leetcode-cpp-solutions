@@ -9,7 +9,8 @@ Curated algorithmic problem solutions in modern C++ with in-depth time and space
 
 ## 🎯 120-Question Master Syllabus & Tracker
 A complete curriculum of 120 high-frequency coding interview problems (Blind 75 + NeetCode 150 + Top Interview Classics), categorized into 14 essential algorithmic patterns with difficulty, target complexities, and progress tracking:
-👉 **[View Full 120-Problem Syllabus & Tracker (SYLLABUS.md)](./SYLLABUS.md)**
+👉 **[View Full 120-Problem Syllabus & Tracker (SYLLABUS.md)](./SYLLABUS.md)**  
+👉 **[Old vs. New Questions Breakdown Guide (BATCH_BREAKDOWN.md)](./BATCH_BREAKDOWN.md)**
 
 ---
 
